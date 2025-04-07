@@ -12,9 +12,9 @@ Las acciones defensivas contempladas son:
 - Duelos defensivos.
 
 El PPDA se calcula con la siguiente fórmula. Solo se han de tener en cuenta los eventos pertenecientes al 60% del campo más cercano a la portería rival.
-$$
-PPDA = \frac{Pases completados por el rival}{Acciones defensivas realizadas}
-$$
+
+$PPDA = \frac{Pases completados por el rival}{Acciones defensivas realizadas}$
+
 
 ## Utilidad
 
