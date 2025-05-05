@@ -2,7 +2,7 @@
 
 ## Significado
 
-PPDA (*Passes Per Defensive Action*) es una métrica utilizada para cuantificar la presión de un equipo.En pocas palabras, el PPDA calcula cuántos pases permite un equipo que su rival complete antes de realizar una acción defensiva. Cuanto menor sea el valor de PPDA, más intensa es la presión, ya que significa que el equipo permite menos pases antes de intentar recuperar el balón.
+PPDA (*Passes Per Defensive Action*) es una métrica utilizada para cuantificar la presión de un equipo. En pocas palabras, el PPDA calcula cuántos pases permite un equipo que su rival complete antes de realizar una acción defensiva. Cuanto menor sea el valor de PPDA, más intensa es la presión, ya que significa que el equipo permite menos pases antes de intentar recuperar el balón.
 
 Las acciones defensivas contempladas son:
 
